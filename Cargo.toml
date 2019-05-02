@@ -1,7 +1,8 @@
 [package]
 name = "rust-httpserver"
 version = "0.1.0"
-authors = ["grim"]
+authors = ["grim","nikanlv"]
 edition = "2018"
 
 [dependencies]
+actix-web = "0.7"
