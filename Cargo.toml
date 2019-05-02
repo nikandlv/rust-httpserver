@@ -1,0 +1,7 @@
+[package]
+name = "rust-httpserver"
+version = "0.1.0"
+authors = ["grim"]
+edition = "2018"
+
+[dependencies]
